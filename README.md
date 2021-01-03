@@ -10,6 +10,9 @@ The main focus of this repository is to build a association rule application for
 2.How to do it ?
 
 Use Python package to do the job
+step1:writing the python association rules
+
+step2:draw the association rules graphs
 
 
 3.What is my desigh thinking ?
